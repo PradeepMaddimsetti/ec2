@@ -1,0 +1,5 @@
+variable "region_aws" {
+    type        = string
+    default     = "us-east-1"
+    description = "it defains the region of location aws" 
+}
